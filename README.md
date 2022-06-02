@@ -1,6 +1,6 @@
 # 🪣 Bucket
 
-Bucket is a super simple page setup with _parcel_.
+Bucket is a super simple page setup with **parcel**.
 
 ## 🚰 Install
 
@@ -14,7 +14,7 @@ Run `npm run build` for final build files.
 
 ## 🚿 Tools
 
-It just uses **Parcel** and will automatically optimize the CSS and JavaScript files.
+It just uses **parcel** and will automatically optimize the CSS and JavaScript files.
 
 ## 🧼 Style Helper
 
