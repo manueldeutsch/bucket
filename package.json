@@ -1,0 +1,24 @@
+{
+  "name": "bucket",
+  "version": "1.0.0",
+  "description": "boilerplate",
+  "scripts": {
+    "start": "parcel index.html",
+    "build": "parcel build index.html --no-source-maps --no-content-hash"
+  },
+  "browserslist": "> 0.5%, last 2 versions, not dead",
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com:mantsch/bucket.git"
+  },
+  "devDependencies": {
+    "@parcel/transformer-sass": "^2.4.1",
+    "parcel": "^2.4.1"
+  },
+  "dependencies": {
+    "sanitize.css": "^13.0.0"
+  },
+  "prettier": {
+    "printWidth": 120
+  }
+}
