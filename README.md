@@ -23,7 +23,7 @@ It just uses **Parcel** and will automatically optimize the CSS and JavaScript f
 
 ## 🚽 Deploy
 
-For a simple and easy deploy, a github action workflow is included.
+For a simple and easy deploy, a github action workflow is included, which will do a build and commit those files to a dist branch which will be served by github pages.
 
 ## 🧴 Links
 
